@@ -1,0 +1,96 @@
+# Placement Analytics —   Questions & Screenshots
+
+---
+## 1. Graduation Year vs No. of Students Graduated
+
+
+## 2. Gender vs Graduation Year
+
+
+---
+
+## 3. Branch vs Number of Students Graduated (Ignoring Year)
+
+
+
+---
+
+## 4. Branch vs Number of Students Graduated (2022–2024)
+
+
+
+---
+
+## 5. Placement Trend
+
+
+
+---
+
+## 6. Placement Trend by Branch
+
+
+
+---
+
+## 7. Placement Trend by Branch & Gender
+
+
+
+---
+
+## 8. Placement Trend by Branch & Graduation Year
+
+
+---
+
+## 9. Placement Trend by Company
+
+
+
+---
+
+## 10. Company-wise Placement by Branch
+
+
+---
+
+## 11. Average Salary by Company
+
+
+
+---
+
+## 12. Total Salary Offered by Company
+
+
+
+---
+
+## 13. Student Count per Company
+
+
+---
+
+## 14. Average Salary per Branch
+
+
+---
+
+## Insights & Observations
+  Graduation rates remained steady, peaking in 2023. 
+• CSE and IT had the highest number of graduates and placed students. 
+• Male students were placed more often than female students across all branches. 
+• Top recruiters included Google, Microsoft, Amazon, L&T, and Wipro. 
+• Highest salaries were offered by tech companies (Amazon, Google, Microsoft). 
+• ME and CE branches had more unplaced students and lower salary averages.
+---
+
+## Conclusion
+
+CSE and IT branches lead in both placement numbers and salary outcomes. There is a noticeable 
+gender gap and branch disparity in placements. Top tech companies contribute the most to placement 
+quality. The Tableau dashboard effectively highlights these patterns, supporting strategic 
+improvements in training and recruitment efforts. 
+
+---
