@@ -122,9 +122,6 @@ Showcasing skills in:
 ✔ Analytical Thinking
 ✔ Dashboard Design
 ✔ Storytelling with Data
-## Author
-
-Built by Hasini
-📧 Gmail:nadellahasini@gmail.com
-🔗 LinkedIn:www.linkedin.com/in/hasini-nadella30
----
+**Author:** Hasini  
+📧 Email: nadellahasini@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/hasini-nadella30  
