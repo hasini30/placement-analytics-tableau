@@ -5,8 +5,6 @@
 **Project Title:** Placement Analytics Dashboard  
 **Domain:** Education / Hiring Analytics  
 **Tool Used:** Tableau  
-**Level:** Intermediate  
-
 
 
 The aim of this project is to analyze and visualize student placement data across branches, companies, and years using Tableau. This helps identify patterns in hiring trends, salary distribution, and department-level performance.
