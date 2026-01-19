@@ -116,15 +116,15 @@ Potential improvements:
 This project highlights how data analytics can provide insights into recruitment patterns and academic performance. The dashboard presents a comprehensive view of placements, making it valuable for educational institutions, students, and recruiters.
 
 ---
-
-## Author
-
-Built by Hasini
 Showcasing skills in:
 
 ✔ Data Visualization
 ✔ Analytical Thinking
 ✔ Dashboard Design
 ✔ Storytelling with Data
+## Author
 
+Built by Hasini
+📧 Gmail:nadellahasini@gmail.com
+🔗 LinkedIn:www.linkedin.com/in/hasini-nadella30
 ---
