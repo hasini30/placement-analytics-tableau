@@ -3,7 +3,6 @@
 ## Project Overview
 
 **Project Title:** Placement Analytics Dashboard  
-**Domain:** Education / Hiring Analytics  
 **Tool Used:** Tableau  
 
 
